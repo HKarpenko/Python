@@ -11,4 +11,3 @@ def koperta(n):
         print(*kwadr[i])
 
 koperta(10)
-    
